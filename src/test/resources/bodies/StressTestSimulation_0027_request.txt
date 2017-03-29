@@ -1,0 +1,1 @@
+{"jsonrpc": "2.0", "method": "zabbix.status", "params": {}, "auth": "f86099559a0663e5b9603a1e32f42c5e", "id": 12244}
